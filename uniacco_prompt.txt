@@ -1,0 +1,259 @@
+# Task
+1. Analyze the agent based on the provided script.
+2. Extract the following information:
+    a. Lead ID
+    b. Lead Name
+    c. Agent Name
+    d. Accommodation Preference
+    e. Country
+    f. University
+    g. Intake
+    h. Budget
+    i. Self-funding or Loan
+    j. Move-in Date
+    k. Script Follow Score
+    l. Sales Pitch Score
+    m. Accomodation booking status
+$Segments for Script follow$
+<Segment 1: Introduction and Verification>
+        Script:
+        Greeting and verifying the callee's identity.
+        Introduction of the caller and purpose of the call.
+        Analysis:
+        Did the agent greet and verify the student's identity?
+        Did the agent introduce themselves and the organization clearly?
+<Segment 2: Inquiry Confirmation>
+        Script:
+        Confirming the details of the inquiry (accommodation near the university).
+        Verifying the specific university and intended move-in date.
+        Analysis:
+        Did the agent accurately confirm the inquiry details?
+        Was the intended move-in date clearly discussed?
+<Segment 3: Accommodation Preferences>
+        Script:
+        Asking about the student's accommodation preferences (room type, facilities, etc.).
+        Confirming the budget and financial planning.
+        Analysis:
+        Did the agent gather relevant accommodation information accurately?
+        Did the agent confirm the student's budget and financial planning?
+<Segment 4: Budget and funding>
+        Script:
+        Providing an overview of the accommodation costs and additional expenses.
+        Asking about the funding method(self-funding or loan).
+        Analysis:
+        Did the agent provide clear information about costs?
+        Did the agent ask about the funding method for the accomodation?
+<Segment 5: Accomodation recommendation list>
+        Script:
+        Recommending accomodation checklist to the customer according to their preference.
+        Analysis:
+        Did the agent recommend preferred accomodation checklist?
+<Segment 6: Final Confirmation and Closing>
+        Script:
+        Confirming the booking of accomodation.
+        Providing final instructions and closing the call.
+        Analysis:
+        Was the accomodation booking confirmed?
+        Did the agent provide clear closing instructions and end the call politely?
+<Optional Segment 1: Discounts and offers>
+        Script:
+        Informing the student about available discounts and offers for accommodation.
+        Analysis:
+        Did the agent provide information about available discounts and offers?
+<Optional Segment 2: Additional Services and Support>
+        Script:
+        Explaining additional services provided by the organization (e.g., moving assistance, roommate matching).
+        Offering support with any other concerns the student might have.
+        Analysis:
+        Did the agent explain additional services that could benefit the student?
+        Was the student encouraged to ask questions about other areas of concern?
+<Optional Segment 3: Application status confirmatiom>
+        Script:
+        Requesting the application status of the customer.
+        Analysis:
+        Did the agent application status of the customer?
+<Overall Recommendations>
+        Ensure clarity and engagement throughout the call.
+        Provide summaries of key points to confirm understanding.
+        Show empathy and flexibility to accommodate the student's schedule.
+        Follow up promptly and politely to ensure application status.
+        Offer additional information on offers and extra services proactively.
+
+$Segments for Sales Pitch$
+<Segment 1: Identification and Addressing by Name
+      Script:
+      Greeting: "Hello, am I speaking with [Customer's Name]?"
+      Introduction: "Hi [Customer's Name], this is [Agent's Name] from UniAcco."
+<Segment 2: Reference to Previous Enquiry
+      Script:
+      Reference to Inquiry: "We received your inquiry about accommodation near [University Name] in [Country Name]."
+      Previous Contact Confirmation: "I believe you checked for accomodations on our website on [Date of Website Enquiry]."
+<Segment 3: Confirmation of Interest
+      Script:
+      Interest Confirmation: "I wanted to confirm that you are still interested in securing accommodation near [University Name] starting from [Move-in Date]."
+      Clarification: "Is that correct?"
+<Segment 4: Addressing Concerns and Reassurances
+      Script:
+      Acknowledge Concerns: "I understand you might have some concerns about the process."
+      Provide Reassurances: "We are here to guide you through every step, from room selection to move-in assistance."
+<Segment 5: Highlighting Facilities
+      Script:
+      Benefits: "Our services include personalized accommodation matching, room tours, and assistance with lease agreements."
+      Facilities: "These accomodations provide support for facilities like Wi-Fi, laundry, and gym access."
+<Segment 6: Urgency and Scarcity
+      Script:
+      Urgency: "It's important to book early as the best rooms get occupied quickly."
+      Scarcity: "Early bookings also give you more options to choose from."
+<Segment 7: Financial Incentives and Offers
+      Script:
+      Incentives: "We have several offers and discounts available for bookings."
+<Segment 8: Explaining the Payment Process and Flexibility
+      Script:
+      Payment Overview: "The total cost for your accommodation is approximately [Amount], which includes rent and utilities."
+      Flexibility: "You can opt for self-funding or apply for an accommodation loan. We also provide guidance on securing loans."
+<Segment 9: Encouragement to Commit
+      Script:
+      Encouragement: "We highly recommend going through all the accomodation options we recommended to discuss your options in detail and take the next steps."
+<Segment 10: Openness to Further Discussion
+      Script:
+      Invitation for Questions: "Do you have any other questions or concerns that I can help address?"
+      Open Communication: "Feel free to reach out to us anytime. We are here to assist you throughout the process."
+
+Conversation Transcript:
+{call_to_be_analyzed}
+
+
+$Result Format-Example$(don't include this heading)
+
+I. Script Follow
+   Segment 1: Introduction and Verification
+       Answer: Yes
+       Reason: The agent greeted the callee, verified their identity, and introduced themselves and the purpose of the call.
+       Transcript: "Hello hello. ... Yeah, am I speaking with Venkata"
+   Segment 2: Inquiry Confirmation
+       Answer: Yes
+       Reason: The agent confirmed the study abroad inquiry and verified the intended intake period.
+       Transcript: "I think on May eleventh you placed an inquiry on the website for your counselling session with the USA expert for your masters."
+   Segment 3: Accommodation Preferences
+       Answer: Yes
+       Reason: The agent gathered relevant accommodation information and clarified the field of study.
+       Transcript: "Your tenth was in which year? ... And then you did your 3 years of bachelor's? ... Information technology."
+   Segment 4: Budget and Financial Planning
+       Answer: Yes
+       Reason: The agent discussed the course cost, living expenses, and funding options with the callee.
+       Transcript: "So, overall like 40 lakhs for universities. And living expenses if you include, it goes around 10 lakhs or 1 hour."
+   Segment 5: Accommodation Recommendation List
+       Answer: Yes
+       Reason: The agent offered accommodation sessions, discussed available time slots, and confirmed the preferred time for the session.
+       Transcript: "So, just dropped the hi on WhatsApp. Can you please help me with your resume and your academic mark sheet?"
+   Segment 6: Final Confirmation and Closing
+       Answer: Yes
+       Reason: The agent requested academic documents for verification and explained the purpose of document verification.
+       Transcript: "Mark sheet like basically this is to cross verify the information that you have already provided."
+   Optional Segment 1: Discounts and Offers
+       Answer: Yes
+       Reason: The agent confirmed the booking of the counselling session and provided final instructions before closing the call.
+       Transcript: "Your slot will be booked on the given mail ID, and you will be getting a notification on the mail ID, okay?"
+   Optional Segment 2: Additional Services and Support
+       Answer: Yes
+       Reason: The agent requested academic documents for verification and explained the purpose of document verification.
+       Transcript: "Mark sheet like basically this is to cross verify the information that you have already provided."
+   Optional Segment 3: Application Status Confirmation
+       Answer: Yes
+       Reason: The agent confirmed the booking of the counselling session and provided final instructions before closing the call.
+       Transcript: "Your slot will be booked on the given mail ID, and you will be getting a notification on the mail ID, okay?"
+      
+   Overall Script Follow Score: 6/6
+
+II. Sales Pitch
+   Segment 1: Identification and Addressing by Name
+       Answer: Yes
+       Reason: The agent addressed the customer by their name, Venkata, multiple times throughout the call.
+       Transcript: "Hi Venkata. This call is from Uni Scholars."
+   Segment 2: Reference to Previous Enquiry
+       Answer: Yes
+       Reason: The agent referenced the customer's previous inquiry on the website.
+       Transcript: "We got your inquiry for study abroad for computer engineering for you us."
+   Segment 3: Confirmation of Interest
+       Answer: Yes
+       Reason: The agent confirmed the customer's interest in studying abroad and the specific program they inquired about.
+       Transcript: "So I just want to understand that you are planning this for Jan 25 intake?"
+   Segment 4: Addressing Concerns and Reassurances
+       Answer: Yes
+       Reason: The agent provided some reassurances about the process but did not address specific concerns.
+       Transcript: "I can connect you with a USA export who can help you with the university selection, SOP, aloud, like you know your profile building everything, okay."
+   Segment 5: Highlighting Benefits and Facilities
+       Answer: Yes
+       Reason: The agent highlighted the benefits of early application and potential partial qualifications.
+       Transcript: "If the early you apply, the early you have the opportunity to apply for partial qualifications."
+   Segment 6: Urgency and Scarcity
+       Answer: Yes
+       Reason: The agent created a sense of urgency by mentioning deadlines and the benefits of early application.
+       Transcript: "If the early you apply, the early you have the opportunity to apply for partial qualifications."
+   Segment 7: Financial Incentives and Offers
+       Answer: No
+       Reason: The agent discussed the cost of education and living expenses but did not offer specific financial incentives.
+       Transcript: "1 year university fees cost you around 20 lakhs."
+   Segment 8: Explaining the Payment Process and Flexibility
+       Answer: Partial
+       Reason: The agent mentioned funding options but did not provide detailed information on the payment process.
+       Transcript: "I believe you are going to take an education loan for this or partially self-fund this side."
+   Segment 9: Encouragement to Commit
+       Answer: Yes
+       Reason: The agent encouraged the customer to proceed with the counseling session booking.
+       Transcript: "Congratulations for the free counselling session from Uni Scholars."
+   Segment 10: Openness to Further Discussion
+       Answer: Yes
+       Reason: The agent was open to further discussion and answered the customer's questions.
+       Transcript: "Can you please help me with your resume and your academic mark sheet?"
+
+   Overall Sales Pitch Score: 8.5/10
+
+Scores -
+   1.Script follow Score - 10/10
+   2.Sales Pitch Score - 8.5/10
+
+Redflags -
+
+   1. Addressing Concerns and Reassurances - Partial:
+           Reason: The agent did not address specific concerns raised by the customer.
+           Improvement: The agent should actively listen to the customer's concerns and provide relevant reassurances and solutions.
+           Transcript snippet: "I can connect you with a USA export who can help you with the university selection, SOP, aloud, like you know your profile building everything, okay."
+   2. Financial Incentives and Offers - No:
+           Reason: The agent discussed costs but did not mention any specific financial incentives or offers.
+           Improvement: The agent should highlight any available financial incentives or discounts to encourage the customer.
+           Transcript snippet: "1 year university fees cost you around 20 lakhs."
+   3. Explaining the Payment Process and Flexibility - Partial:
+           Reason: The agent mentioned funding options but did not provide detailed information on the payment process.
+           Improvement: The agent should explain the payment process clearly and offer flexibility options to the customer.
+           Transcript snippet: "I believe you are going to take an education loan for this or partially self-fund this side."
+
+Info Extraction:
+          Lead ID: Venkata
+          Lead Name: Venkata
+          Agent Name: <Agent Name>
+          Accommodation Preference: Single room with private bathroom
+          Country: USA
+          University: Harvard University
+          Intake: September 2024
+          Budget: $20,000 per year
+          Self-funding or Loan: Partial self-funding and partial education loan discussed
+          Move-in Date: August 15, 2024
+          Script Follow Score: <its overall score> 
+          Sales Pitch Score: <its overall score> 
+          Accommodation booking status: Not booked yet
+    Final Result: The customer is interested and a call with counsellor is scheduled at what time.
+    Actions: Based on your own knowledge, what actions does the agent has to take after the call is completed.
+    Suggestions: Based on the transcript, suggested actions for the agent to improve the call.
+$Result Format-Ends Here$\
+<Overall Recommendations for Result Format>
+      1. If the confusion gets cleared throughout the end of the conversation.
+      2. Give reason for the red flags given.
+      3. If any segment is not applicable because the call ended before but the agent follows the script till that segment, then do not count that segment score for overall analysis as it can impact agent performance.
+<Answering and Scoring Instructions>
+      1. Answer should be Yes/No/Not applicable.
+      2. Scoring should not be considered if the answer is not applicable or there is no reference in the transcript.
+      3. If the transcript is not available then answer that segment as not applicable.
+      4. Suppose there are 10 segments and one is not applicable then the overall score should be given without counting not applicable segments.
+      5. These rules applied on both script follow and sales pitch.
+      6. Status of the application should be Qualified (if interested)/ Lost (if not interested)/Can't determine(if confused).
