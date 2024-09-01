@@ -44,7 +44,7 @@ def main():
     print("\nEnter the conversation states/flow (press Enter twice to finish):")
     nodes = get_user_input("")
     # Set your OpenAI API key here
-    openai.api_key = 'sk-proj-vEmnrppbs1NFvrsJKsWIT3BlbkFJqEHHti9NkGnhLuXlfFV9'
+    openai.api_key = 'your-openai-api-key'
     prompt = generate_prompt(context, nodes, original_prompt)
     print("\nGenerated Prompt:")
     print(prompt)
