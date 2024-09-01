@@ -1,7 +1,7 @@
 # import requests
 
 # url = "https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
-# api_key = "sk_8a8da54f9ce9c6755a2e2ef2bbc49364a37b57149100c1fa"
+# api_key = ""
 
 # payload = {
 #     "text": "",
@@ -34,12 +34,18 @@
 # print(response.text)
 
 import requests
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenv("ELEVENLABS_KEY")
 
 url = "https://api.elevenlabs.io/v1/text-to-speech/Monika"
 
 payload = {"text": "HI this is alisha"}
 headers = {
-    "xi-api-key": "sk_8a8da54f9ce9c6755a2e2ef2bbc49364a37b57149100c1fa",
+    "xi-api-key": api_key,
     "Content-Type": "application/json"
 }
 

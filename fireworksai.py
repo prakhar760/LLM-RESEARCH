@@ -10,381 +10,55 @@ api_key = os.getenv("FIREWORKSAI_API_KEY")
 transcript = """
 Speaker 0:
 
-Hello, missus. Hello?
+Hello?
 
 Speaker 1:
 
-Hello. Am I speaking to Nikita?
+Yes? Hi.
 
 Speaker 0:
 
-Yes.
+I am Nancy from UniCRED. Am I speaking with Rachna?
 
 Speaker 1:
 
-Hey, Nikita. This is for your accommodation at Botanix Studios. I'm calling you from uniaco.com. Yes. Because, actually, I believe you have already made a rent payment, but the account is different.
-
-Actually, that's for Uniaco's account, which you have already paid the rent for. And we have gotten a message that, amount of 1 lakh 70,000 has already been debited.
+Yes. You're speaking with Rachna.
 
 Speaker 0:
 
-Yeah. Actually, I emailed about the same to the accommodation as well because I I could not recognize that card, but I I I don't know why I just went with it. I kind of don't remember whether I have added a card or not, and it gave me a confirmed, payment notification, but none of my cards have been debited any amount?
+I received your inquiry regarding an education loan for studying abroad. Is this a convenient time to talk about your plans for the loan?
 
 Speaker 1:
 
-Yes. Because that was an auto debit setup there, actually. And you clicked on continue. That is the reason the rent got deducted from our account. So, actually, we got an email from the property that why are you paying the rent.
-
-So that is the reason I got in touch with you. So what I can do is, I already have an alternate solution for that. I'll make a payment link for you for the same amount. Mhmm. You can just make the payment to us directly.
-
-So your payment has already gone there. That is fine. We can confirm with the property from the back end as well. You can just pay the amount right now to us so that we can clear the accounts from Arun.
+Yeah. Please continue. Hello?
 
 Speaker 0:
 
-I mean, are you sure, can you not take refund on your account and I can make payment from my card?
+What's your target country for studying abroad?
 
 Speaker 1:
 
-That can't be because I'll tell you as it's already made by the card payment, and they already have their account set up because they have their instant installment plan already. Right? So in Okay. Your end installment plan, it's showing as approved. The payment is in process.
-
-So we cannot take the refund from the k from the property's end, but what we can do is we can generate another link for you, and you can make the payment over here.
+I'm looking for university in UK.
 
 Speaker 0:
 
-So I'll be making payment to the Uniaco. Is it like that?
+Great. I see you are planning to study in the UK. Let me connect you with our agent for a detailed discussion. What time works best for you?
 
 Speaker 1:
 
-Can you repeat that?
+I'm free tomorrow. 10 AM.
 
 Speaker 0:
 
-So I I will be making the payment to the Uniaco.
+Perfect. I've got you down for a session on August 30, 2024 at 10 AM. You'll get an email or text soon with all the details.
 
 Speaker 1:
 
-Yes. And, also, we'll give the confirmation for the same. The reason I'll tell you, if you, get a refund for the same from that, it might be the case that you're not paying the rent, and due to that, the booking can be canceled. That is the reason. Because there's a default in the rent payment if you're taking the refund again.
+Thank you.
 
 Speaker 0:
 
-Okay. Okay. So is it possible that if I hear back from the general manager of the property first, then I can make the payment?
-
-Speaker 1:
-
-No. We actually have our IR team already involved in the same, and they have said that this cannot be done because immediately I'm so sorry to call you this time, as I know you are in India itself, but IR team is also involved with us, international relations team, and she said that this one has to make the payment directly to you, because of
-
-Speaker 0:
-
-the Uh-huh. Actually, the thing is that I I really want to trust this arrangement that we are having. And I, know that I have clicked on a, you know, card that does not belong to me, and I made the payment. Yes. But, I don't know if I make the payment to you.
-
-Will I be getting the confirmation from future, they would say, okay. We did not receive any of your payment.
-
-Speaker 1:
-
-Don't worry about that. Lumunia.
-
-Speaker 0:
-
-So is it something like that?
-
-Speaker 1:
-
-No. Don't worry about that. I've already had a word regarding your accommodation also. Right? And, also, we are in touch with you constantly the time when you make the payment.
-
-I'll also give you the confirmation that your end installment is paid as you've already gotten the details over there. And Mhmm. Regarding your end installment, which you make it to us, is definitely we'll get the confirmation also. I'll give you both of the confirmation.
-
-Speaker 0:
-
-Okay. Okay. So, actually, I have received one payment confirmation from Botanic Studios. So Okay. I will be getting a further confirmation from Uniaco as well?
-
-Speaker 1:
-
-Yes. You'll be getting the further confirmation from Uniaco also. Don't worry about that. Okay. And I am assuring you by tomorrow, it says you'll get the confirmation of your end payment because it takes 24 hours only to process your, advance end payment which you have made.
-
-So as you make the payment to us right now, I'll also confirm tomorrow that you have made the payment to Uniaco. And also from Botanic, I'll give you confirmation. Your end installment is cleared, the 1st time installment which you made.
-
-Speaker 0:
-
-Okay. Okay. That's fine.
-
-Speaker 1:
-
-So what I can do is Yeah. I can just make another link for you right now of the same amount which you have paid, and you can just pay them.
-
-Speaker 0:
-
-Okay. Okay. Perfect. Please send me the link via can you email me so I can make the payment?
-
-Speaker 1:
-
-Fair enough. Fair enough. I can also email you for the same, and I believe I've already WhatsApp you as well regarding the accommodations.
-
-Speaker 0:
-
-Mhmm. Okay. I I may not have checked that.
-
-Speaker 1:
-
-Remember. You will remember. Can you just yes. Akshay from Union
-
-Speaker 0:
-
-and Co. Nikita. Yes. Yes. I do remember you.
-
-That's what it is. I do remember you.
-
-Speaker 1:
-
-Yes. Yes. So I can just send you another link. Just give me one minute. I'm just making the link now.
-
-Mhmm. Just sending you a survey.
-
-Speaker 0:
-
-Okay.
-
-Speaker 1:
-
-Really sorry for the trouble, actually, but, you know, we were thinking about
-
-Speaker 0:
-
-the case. I'm glad that you reached out, actually. You know, I I was being very, nervous, you know, from where the payment have went. I've been constantly checking my cards, my statement. None of them have had that debit, so I was confused already, sir.
-
-It's nice that you called. Yeah.
-
-Speaker 1:
-
-Just give me one minute. I'm just sending you the link now.
-
-Speaker 0:
-
-Mhmm. Okay.
-
-Speaker 1:
-
-Yes, Nikita. I've sent you the link on WhatsApp. If you can just access
-
-Speaker 0:
-
-that I can see that. Do you mind, Akshat, if I ask for a favor? Yes, ma'am. Can you just, put the same link on an email to me and write the same thing that you are saying right now that, you know, that Uniaco has accidentally made the payment. So, Nikita, you're required to make another payment.
-
-Speaker 1:
-
-No problem. That is fine. I will do that for you now.
-
-Speaker 0:
-
-Yeah. So, you know, just so that, you know, in future, I don't want to be in any kind of trouble. That's all. Nothing personal. Yeah.
-
-Speaker 1:
-
-Yes. No problem. I will I'm just drafting an email right now. I'll send it to you.
-
-Speaker 0:
-
-Mhmm. Okay. Okay. Perfect. Then after
-
-Speaker 1:
-
-I have you be on the call? That's fine?
-
-Speaker 0:
-
-Yeah. That's that's not a problem. I can Okay.
-
-Speaker 1:
-
-Just give me one minute. Mhmm.
-
-Speaker 0:
-
-After making the payment, I'll also remove the card that, you have You've put
-
-Speaker 1:
-
-in on my profile right now. You don't worry about that. I'll be doing the needful. Tomorrow itself, I'll be just deleting the card also, and I'll give you the informations. That's fine?
-
-Okay.
-
-Speaker 0:
-
-Perfect. Yeah.
-
-Speaker 1:
-
-Perfect. In that case, no problem. I've just drafted an email for the same, and I'm just sending it to you. Okay. Yes.
-
-I've sent you, the email on nikita.nk Mhmm. 2812@gmail.com. Can you check that?
-
-Speaker 0:
-
-Hold on a second. Yeah. I got it from. Okay.
-
-Speaker 1:
-
-Yes.
-
-Speaker 0:
-
-Okay. I will see the payment link. Now I'll make the payment.
-
-Speaker 1:
-
-Yes, please. Mhmm.
-
-Speaker 0:
-
-I had made the just a second. I had made the payment I have to make the payment of 1642, but the link that you sent is asking me another platform fee and another thing. So it's 1697 pound it's asking me.
-
-Speaker 1:
-
-Just a minute. I'll check that. I'll check that for you.
-
-Speaker 0:
-
-Mhmm. Yeah.
-
-Speaker 1:
-
-It's 16 so that's 1642. Another is the gateway charge. Gateway charges, I believe, are already included because you're making the payment. So that is why.
-
-Speaker 0:
-
-No. I mean, £1642, I'm supposed to deposit. See, in the app, if I would have, paid via my card, I will not be paying the gateway fee. No. No.
-
-Speaker 1:
-
-So in this case, what happens is even if you make the rent payment by your card, your bank would have been charged the same.
-
-Speaker 0:
-
-A data we see? I mean, I do know that the forex conversion is something that they charge extra, but it's mentioned another £55.
-
-Speaker 1:
-
-That's the gateway we actually I'm not
-
-Speaker 0:
-
-do do are you understanding what I'm trying to say?
-
-Speaker 1:
-
-Yes. Yes. So I'll tell you one thing. Even if you were gonna pay from your card directly over there, your bank would have charged the same. And this is not our charges.
-
-This is the Stripe charge which you're making the payment for. Those are the Stripe charges which you are taking. We aren't taking anything from you. It's just the relevant
-
-Speaker 0:
-
-No. No. No. I I at least, let's say, a pound is 102 or whatever it is. But even if I'll pay via card or something, it will charge me around 107 a pound or something like that.
-
-Right? So, this 1642 pound will already be converted by my card on an extra rate, and then you are charging another £55 for a gateway fee. And No. No. My bank does not do that.
-
-Speaker 1:
-
-So so, eventually, I'll tell you one thing, Every bank does that. Even if there's a transaction of more than one lakh, it does that because international payments actually has some charges. So domestic domestic transactions are okay, but international payment, even if you make No.
-
-Speaker 0:
-
-I get that. Actually, I I make a lot of international transaction US based, so I do know about that. You know, transferring money is never the same. The rate that's mentioned online is not what they transfer on. They charge extra already.
-
-But, you know, with if I would have, proceeded with my card, I don't think it would have charged me another £55. See, the thing is, actually, the payment confirmation that I've got is for 16 42, then I'll not be paying 1697.
-
-Speaker 1:
-
-So okay. No problem. We have an alternate solution for that.
-
-Speaker 0:
-
-Or something like that, then I would be very happy to proceed with it. Or maybe you can take the refund from the fresh, and then I can make my payment.
-
-Speaker 1:
-
-So we have another option for you as you are already in Indian, and we do have some, facility for the Indian students to pay via bank. So you can make a bank transfer also, if that's okay.
-
-Speaker 0:
-
-Okay.
-
-Speaker 1:
-
-So there's no charges then.
-
-Speaker 0:
-
-Okay. So can I make nothing else? Can you share send me the details? See, nothing personal, but I just want you to know that, you know, that £55 is a bit extra on my end because, yeah, I do know that every pound is charged extra already, and I will transfer it from here to there. But, I don't believe that my card would have charged me another gateway fee.
-
-So if you can send me your uni, I suppose, bank detail, I'd be happy to transfer it over there as well.
-
-Speaker 1:
-
-No problem. So shall I send it to you on what on email itself?
-
-Speaker 0:
-
-No. No. On the email only, please reply. I'll, just try to log in to my Internet banking, and we'll send you as soon as possible.
-
-Speaker 1:
-
-Okay. No problem, Nikita. I am just dropping you a email right now with the details of the bank account. I have sent it to you. If you can just check if you received that.
-
-Speaker 0:
-
-Mhmm. I one second. Yeah. I have got the okay. I've got the beneficiary code.
-
-Okay.
-
-Speaker 1:
-
-I'll tell you the amount as well. Amount as well. It's 179132.76. Okay. So if you're in the 9133.
-
-Round
-
-Speaker 0:
-
-2 again. 7?
-
-Speaker 1:
-
-9133.
-
-Speaker 0:
-
-9136. Okay. Divided for 179133 is a payment that I'm supposed to make to
-
-Speaker 1:
-
-you. Yes.
-
-Speaker 0:
-
-Okay. Okay.
-
-Speaker 1:
-
-In the narration list, sir, we could just mention your name, Botanic Studios. Yes. Yes. Yes. So, I could just hang up the call now.
-
-You can make the payment, and then I can get on the call with you.
-
-Speaker 0:
-
-Yeah.
-
-Speaker 1:
-
-But yeah. Thank you. I I believe you can just understand because it's international team is also involved. If you can just make the payment today, I'm I know, it's a bit late.
-
-Speaker 0:
-
-I'm done. But, actually, I'll just hang up the call. I'll open my ICICI app, and I'll make the payment.
-
-Speaker 1:
-
-Okay. No problem. No problem. Perfect. Thank you so much for the cooperation
-
-Speaker 0:
-
-here. Yeah. Yeah. Okay.
+Thanks so much for your time, Rachna. We're excited to help you with your study abroad journey. Have a great day ahead.
 """
 
 result_format = """
@@ -562,133 +236,66 @@ $Result Format end here$\
 """
 
 prompt = f"""
-# Task
-1. Analyze the agent based on the provided script.
-2. Extract the following information:
-    a. Lead ID
-    b. Lead Name
-    c. Agent Name
-    d. Accommodation Preference
-    e. Country
-    f. University
-    g. Intake
-    h. Budget
-    i. Self-funding or Loan
-    j. Move-in Date
-    k. Script Follow Score
-    l. Sales Pitch Score
-    m. Accomodation booking status
-$Segments for Script follow$
-<Segment 1: Introduction and Verification>
-        Script:
-        Greeting and verifying the callee's identity.
-        Introduction of the caller and purpose of the call.
-        Analysis:
-        Did the agent greet and verify the student's identity?
-        Did the agent introduce themselves and the organization clearly?
-<Segment 2: Inquiry Confirmation>
-        Script:
-        Confirming the details of the inquiry (accommodation near the university).
-        Verifying the specific university and intended move-in date.
-        Analysis:
-        Did the agent accurately confirm the inquiry details?
-        Was the intended move-in date clearly discussed?
-<Segment 3: Accommodation Preferences>
-        Script:
-        Asking about the student's accommodation preferences (room type, facilities, etc.).
-        Confirming the budget and financial planning.
-        Analysis:
-        Did the agent gather relevant accommodation information accurately?
-        Did the agent confirm the student's budget and financial planning?
-<Segment 4: Budget and funding>
-        Script:
-        Providing an overview of the accommodation costs and additional expenses.
-        Asking about the funding method(self-funding or loan).
-        Analysis:
-        Did the agent provide clear information about costs?
-        Did the agent ask about the funding method for the accomodation?
-<Segment 5: Accomodation recommendation list>
-        Script:
-        Recommending accomodation checklist to the customer according to their preference.
-        Analysis:
-        Did the agent recommend preferred accomodation checklist?
-<Segment 6: Final Confirmation and Closing>
-        Script:
-        Confirming the booking of accomodation.
-        Providing final instructions and closing the call.
-        Analysis:
-        Was the accomodation booking confirmed?
-        Did the agent provide clear closing instructions and end the call politely?
-<Optional Segment 1: Discounts and offers>
-        Script:
-        Informing the student about available discounts and offers for accommodation.
-        Analysis:
-        Did the agent provide information about available discounts and offers?
-<Optional Segment 2: Additional Services and Support>
-        Script:
-        Explaining additional services provided by the organization (e.g., moving assistance, roommate matching).
-        Offering support with any other concerns the student might have.
-        Analysis:
-        Did the agent explain additional services that could benefit the student?
-        Was the student encouraged to ask questions about other areas of concern?
-<Optional Segment 3: Application status confirmatiom>
-        Script:
-        Requesting the application status of the customer.
-        Analysis:
-        Did the agent application status of the customer?
-<Overall Recommendations>
-        Ensure clarity and engagement throughout the call.
-        Provide summaries of key points to confirm understanding.
-        Show empathy and flexibility to accommodate the student's schedule.
-        Follow up promptly and politely to ensure application status.
-        Offer additional information on offers and extra services proactively.
-
-$Segments for Sales Pitch$
-<Segment 1: Identification and Addressing by Name
-      Script:
-      Greeting: "Hello, am I speaking with [Customer's Name]?"
-      Introduction: "Hi [Customer's Name], this is [Agent's Name] from UniAcco."
-<Segment 2: Reference to Previous Enquiry
-      Script:
-      Reference to Inquiry: "We received your inquiry about accommodation near [University Name] in [Country Name]."
-      Previous Contact Confirmation: "I believe you checked for accomodations on our website on [Date of Website Enquiry]."
-<Segment 3: Confirmation of Interest
-      Script:
-      Interest Confirmation: "I wanted to confirm that you are still interested in securing accommodation near [University Name] starting from [Move-in Date]."
-      Clarification: "Is that correct?"
-<Segment 4: Addressing Concerns and Reassurances
-      Script:
-      Acknowledge Concerns: "I understand you might have some concerns about the process."
-      Provide Reassurances: "We are here to guide you through every step, from room selection to move-in assistance."
-<Segment 5: Highlighting Facilities
-      Script:
-      Benefits: "Our services include personalized accommodation matching, room tours, and assistance with lease agreements."
-      Facilities: "These accomodations provide support for facilities like Wi-Fi, laundry, and gym access."
-<Segment 6: Urgency and Scarcity
-      Script:
-      Urgency: "It's important to book early as the best rooms get occupied quickly."
-      Scarcity: "Early bookings also give you more options to choose from."
-<Segment 7: Financial Incentives and Offers
-      Script:
-      Incentives: "We have several offers and discounts available for bookings."
-<Segment 8: Explaining the Payment Process and Flexibility
-      Script:
-      Payment Overview: "The total cost for your accommodation is approximately [Amount], which includes rent and utilities."
-      Flexibility: "You can opt for self-funding or apply for an accommodation loan. We also provide guidance on securing loans."
-<Segment 9: Encouragement to Commit
-      Script:
-      Encouragement: "We highly recommend going through all the accomodation options we recommended to discuss your options in detail and take the next steps."
-<Segment 10: Openness to Further Discussion
-      Script:
-      Invitation for Questions: "Do you have any other questions or concerns that I can help address?"
-      Open Communication: "Feel free to reach out to us anytime. We are here to assist you throughout the process."
+Context: You are evaluating the performance of a voice AI agent in a customer service context for an educational consultancy specializing in study abroad programs. Your task is to identify any defects, irregularities, or shortcomings in the AI's responses and behaviour during the call.
+Instructions:
+1. Analyze the provided call transcript carefully.
+2. Identify any defects or issues in the AI agent's performance.
+3. Categorize each defect according to the types listed below.
+4. Provide a brief explanation and a relevant transcript excerpt for each identified defect.
+5. Explicitly ignore and do not report any issues related to:
+   - Incorrect name pronunciations or usage
+   - Spelling mistakes
+   - Minor grammatical errors
+   - Slight mispronunciations of words
+   These are not considered defects for the purpose of this evaluation.
+6. Redflags value should be in string format, you can use \n. Do not use JSON or array format.
+Types of AI Defects to Look For:
+1. Understanding and Relevance:
+   - Misinterpretation of user intent
+   - Failure to understand context or nuance
+   - Providing irrelevant or off-topic information
+   - Failing to address the user's specific question
+   Example: User asks about "course fees" but AI responds about "visa fees"
+2. Conversational Coherence:
+   - Abrupt topic changes
+   - Failure to maintain context across multiple turns
+   - Unnecessarily repeating information
+   - Getting stuck in a loop
+   Example: AI asks the same question twice in succession
+3. Knowledge and Accuracy:
+   - Providing incorrect or outdated information
+   - Inability to answer common questions within its domain
+   - Providing contradictory information within the same conversation
+   Example: AI provides incorrect information about visa requirements
+4. Handling Complex Situations:
+   - Inability to break down or address multi-part questions
+   - Failure to recognize or respond appropriately to user emotions
+   - Inappropriate tone or sentiment
+   - Failure to recognize when to transfer to a human agent
+   Example: User expresses frustration, but AI doesn't offer to connect them with a human
+5. Technical Performance:
+   - Unnatural pauses or rushed responses
+   - Interrupting the user
+   - Any other technical glitches in the AI's performance
+   Example: AI responds before the user has finished speaking
+Result Format:
+Redflags:
+1. Defect Type: [Type from the list above]
+   Description: [Brief explanation of the defect]
+   Transcript: [Relevant excerpt from the call]
+2. [If applicable]
+Recommendations:
+1. [Recommendation for improvement]
+2. [Recommendation for improvement]
+3. [Recommendation for improvement]
+If no defects are found, state: "No significant defects were identified in the AI agent's performance during this call."
+Important Note: Do not flag any issues related to names, including incorrect usage, pronunciation, or spelling of names. These are not considered defects for this evaluation.
 
 Conversation Transcript:
 {transcript}
 
-{result_format}
 """
-
+# {result_format}
 url = "https://api.fireworks.ai/inference/v1/chat/completions"
 payload = {
   "model": "accounts/fireworks/models/llama-v3p1-405b-instruct",
